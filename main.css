@@ -1,0 +1,16 @@
+.login {
+    height:100px;
+    width:300px;
+    line-height: 1.7em;
+    border: 1px solid;
+    border-radius:20px;
+    text-align:center;
+    margin:auto;
+    padding:50px;
+    font-size:15px;
+}
+.button {
+    height:20px;
+    width:80px;
+    border-radius:20px;
+}
